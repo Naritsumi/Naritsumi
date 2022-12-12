@@ -16,7 +16,7 @@
 </h1>
 </div>
 
-<h3 align="center">A passionate frontend developer from Spain, Canary Islands</h3>
+<h3 align="center">A passionate Full-stack developer from Spain, Canary Islands</h3>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building desktop & web applications.
 
