@@ -38,11 +38,11 @@
     alt="GitHub profile"
     src="https://img.shields.io/badge/GitHub-Naritsumi-181717?style=for-the-badge&logo=github"
   />
-</a>
+</a><br>
 <img
-  alt="Canary Islands, Spain"
+  alt="Spain"
   src="https://img.shields.io/badge/Canary%20Islands-Spain-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white"
-/>
+/><br>
 <img
   alt="Profile views"
   src="https://komarev.com/ghpvc/?username=naritsumi&label=Profile%20views&color=0969DA&style=for-the-badge"
@@ -160,17 +160,58 @@ current-focus/
 
 <div align="center">
 
-<img
-  height="165"
-  alt="GitHub statistics"
-  src="https://github-readme-stats.vercel.app/api?username=Naritsumi&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github"
-/>
+<div align="center">
 
-<img
-  height="165"
-  alt="Most used repository languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naritsumi&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naritsumi&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naritsumi&theme=github"
+  />
+  <img
+    height="165"
+    alt="GitHub statistics"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naritsumi&theme=github"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naritsumi&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naritsumi&theme=github"
+  />
+  <img
+    height="165"
+    alt="Most used repository languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naritsumi&theme=github"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=Naritsumi&theme=github-dark-blue&hide_border=true&border_radius=12"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=Naritsumi&theme=default&hide_border=true&border_radius=12"
+  />
+  <img
+    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=Naritsumi&theme=default&hide_border=true&border_radius=12"
+  />
+</picture>
 
 <br/>
 
@@ -187,23 +228,6 @@ current-focus/
     width="100%"
     alt="GitHub activity graph"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Naritsumi&theme=github-light&hide_border=true&radius=8"
-  />
-</picture>
-
-<br/>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=Naritsumi&theme=github-dark-blue&hide_border=true&border_radius=12"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=Naritsumi&theme=default&hide_border=true&border_radius=12"
-  />
-  <img
-    alt="GitHub contribution streak"
-    src="https://streak-stats.demolab.com?user=Naritsumi&theme=default&hide_border=true&border_radius=12"
   />
 </picture>
 
