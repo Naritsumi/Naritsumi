@@ -114,45 +114,39 @@ current-focus/
 
 ## 🚀 Featured projects
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<a href="https://github.com/Naritsumi/EstudiaTAI-app">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=Naritsumi&repo=EstudiaTAI-app&theme=github_dark&hide_border=true&description_lines_count=2"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=Naritsumi&repo=EstudiaTAI-app&theme=default&hide_border=true&description_lines_count=2"
-    />
-    <img
-      height="145"
-      alt="EstudiaTAI App repository"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Naritsumi&repo=EstudiaTAI-app&theme=transparent&hide_border=true&description_lines_count=2"
-    />
-  </picture>
-</a>
+### [EstudiaTAI App](https://github.com/Naritsumi/EstudiaTAI-app)
 
-<a href="https://github.com/Naritsumi/pokemon-gameboy">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=Naritsumi&repo=pokemon-gameboy&theme=github_dark&hide_border=true&description_lines_count=2"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=Naritsumi&repo=pokemon-gameboy&theme=default&hide_border=true&description_lines_count=2"
-    />
-    <img
-      height="145"
-      alt="Pokémon Game Boy repository"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Naritsumi&repo=pokemon-gameboy&theme=transparent&hide_border=true&description_lines_count=2"
-    />
-  </picture>
-</a>
+Open-source Android application designed to help prepare the Spanish TAI public examination through thematic tests.
 
-</div>
+<br>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+[View repository →](https://github.com/Naritsumi/EstudiaTAI-app)
+
+  </td>
+  <td width="50%" valign="top">
+
+### [Pokémon Game Boy](https://github.com/Naritsumi/pokemon-gameboy)
+
+Browser-based Pokémon battle system inspired by the classic Game Boy games.
+
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[View repository →](https://github.com/Naritsumi/pokemon-gameboy)
+
+  </td>
+  </tr>
+</table>
 
 <br/>
 
