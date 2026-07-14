@@ -215,26 +215,6 @@ current-focus/
 
 <br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Naritsumi&theme=github-dark&hide_border=true&radius=8"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Naritsumi&theme=github-light&hide_border=true&radius=8"
-  />
-  <img
-    width="100%"
-    alt="GitHub activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Naritsumi&theme=github-light&hide_border=true&radius=8"
-  />
-</picture>
-
-</div>
-
-<br/>
-
 ## 🐍 Contribution graph
 
 <div align="center">
@@ -252,30 +232,6 @@ current-focus/
     width="100%"
     alt="Animated GitHub contribution snake"
     src="https://raw.githubusercontent.com/Naritsumi/Naritsumi/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
-<br/>
-
-## 🧊 Contribution calendar
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-3d-contrib/profile-night-view.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./profile-3d-contrib/profile-green-animate.svg"
-  />
-  <img
-    width="100%"
-    alt="3D GitHub contribution calendar"
-    src="./profile-3d-contrib/profile-green-animate.svg"
   />
 </picture>
 
